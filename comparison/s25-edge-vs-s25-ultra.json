@@ -1,0 +1,30 @@
+{
+  "title": "Samsung Galaxy S25 Edge vs Ultra",
+  "products": [
+    {
+      "name": "Samsung Galaxy S25 Edge",
+      "image": "/placeholder.svg?height=200&width=150",
+      "description": "Flagship dengan desain premium.",
+      "rating": 4.5,
+      "shopeeUrl": "https://shopee.co.id/aff-edge",
+      "blibliUrl": "https://blibli.com/aff-edge"
+    },
+    {
+      "name": "Samsung Galaxy S25 Ultra",
+      "image": "/placeholder.svg?height=200&width=150",
+      "description": "Kamera canggih dan S Pen.",
+      "rating": 4.8,
+      "shopeeUrl": "https://shopee.co.id/aff-ultra",
+      "blibliUrl": "https://blibli.com/aff-ultra"
+    }
+  ],
+  "sections": [
+    {
+      "category": "LAYAR",
+      "specs": [
+        { "label": "Tipe", "product1": "Dynamic AMOLED 2X", "product2": "Dynamic AMOLED 2X" },
+        { "label": "Ukuran", "product1": "6.7\"", "product2": "6.8\"" }
+      ]
+    }
+  ]
+}
