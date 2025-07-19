@@ -23,7 +23,63 @@
       "category": "LAYAR",
       "specs": [
         { "label": "Tipe", "product1": "Dynamic AMOLED 2X", "product2": "Dynamic AMOLED 2X" },
-        { "label": "Ukuran", "product1": "6.7\"", "product2": "6.8\"" }
+        { "label": "Ukuran", "product1": "6.7\" (170.3 mm)", "product2": "6.8\" (172.5 mm)" },
+        { "label": "Refresh Rate", "product1": "1-120Hz Adaptive", "product2": "1-120Hz Adaptive" },
+        { "label": "Resolusi", "product1": "3200 x 1440 (QHD+)", "product2": "3088 x 1440 (QHD+)" },
+        { "label": "Kecerahan Maks", "product1": "2600 nits", "product2": "2600 nits" }
+      ]
+    },
+    {
+      "category": "PLATFORM",
+      "specs": [
+        { "label": "OS", "product1": "Android 15, One UI 7", "product2": "Android 15, One UI 7" },
+        { "label": "Chipset", "product1": "Snapdragon 8 Gen 3 (4nm)", "product2": "Snapdragon 8 Gen 3 for Galaxy (4nm)" },
+        { "label": "CPU", "product1": "Octa-core (1x3.3 GHz & 5x3.2 GHz & 2x2.3 GHz)", "product2": "Octa-core (1x3.39 GHz & 5x3.1 GHz & 2x2.2 GHz)" },
+        { "label": "GPU", "product1": "Adreno 750", "product2": "Adreno 750 (overclocked)" }
+      ]
+    },
+    {
+      "category": "MEMORI",
+      "specs": [
+        { "label": "Card Slot", "product1": "Tidak Ada", "product2": "Tidak Ada" },
+        { "label": "Internal", "product1": "256GB 12GB RAM, 512GB 12GB RAM", "product2": "256GB 12GB RAM, 512GB 12GB RAM, 1TB 16GB RAM" }
+      ]
+    },
+    {
+      "category": "KAMERA",
+      "specs": [
+        {
+          "label": "Kamera Utama",
+          "product1": "50 MP, f/1.8, OIS + 12 MP Ultrawide",
+          "product2": "200 MP, f/1.7, OIS + 12 MP Ultrawide + 10 MP Telephoto + 50 MP Periscope"
+        },
+        {
+          "label": "Kamera Depan",
+          "product1": "12 MP, f/2.2",
+          "product2": "12 MP, f/2.2"
+        },
+        {
+          "label": "Perekaman Video",
+          "product1": "4K@60fps, 1080p@240fps",
+          "product2": "8K@30fps, 4K@60fps, 1080p@240fps"
+        }
+      ]
+    },
+    {
+      "category": "BATERAI",
+      "specs": [
+        { "label": "Kapasitas", "product1": "4900 mAh", "product2": "5000 mAh" },
+        { "label": "Pengisian Daya", "product1": "45W wired, 15W wireless", "product2": "45W wired, 15W wireless" }
+      ]
+    },
+    {
+      "category": "LAINNYA",
+      "specs": [
+        { "label": "Sertifikasi", "product1": "IP68 tahan air dan debu", "product2": "IP68 tahan air dan debu" },
+        { "label": "Stylus", "product1": "Tidak Ada", "product2": "S Pen Built-in" },
+        { "label": "Fingerprint", "product1": "Under Display Ultrasonic", "product2": "Under Display Ultrasonic" },
+        { "label": "Audio", "product1": "Stereo Speakers", "product2": "Stereo Speakers, Dolby Atmos" },
+        { "label": "Material", "product1": "Armor Aluminum + Gorilla Glass Victus", "product2": "Titanium Frame + Gorilla Glass Victus 2" }
       ]
     }
   ]
