@@ -3,19 +3,19 @@
   "products": [
     {
       "name": "Samsung Galaxy S25 Edge",
-      "image": "/placeholder.svg?height=200&width=150",
+      "image": "https://raw.githubusercontent.com/kuriizz/cek-spek-data/refs/heads/main/comparison/assets/s25-edge.jpg",
       "description": "Flagship dengan desain premium.",
       "rating": 4.5,
-      "shopeeUrl": "https://shopee.co.id/aff-edge",
-      "blibliUrl": "https://blibli.com/aff-edge"
+      "shopeeUrl": "https://s.shopee.co.id/AA6IumAMIT",
+      "blibliUrl": "#"
     },
     {
       "name": "Samsung Galaxy S25 Ultra",
-      "image": "/placeholder.svg?height=200&width=150",
+      "image": "https://raw.githubusercontent.com/kuriizz/cek-spek-data/refs/heads/main/comparison/assets/s25-ultra.jpg",
       "description": "Kamera canggih dan S Pen.",
       "rating": 4.8,
-      "shopeeUrl": "https://shopee.co.id/aff-ultra",
-      "blibliUrl": "https://blibli.com/aff-ultra"
+      "shopeeUrl": "https://s.shopee.co.id/1g7knJyOxd",
+      "blibliUrl": "#"
     }
   ],
   "sections": [
