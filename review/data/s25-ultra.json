@@ -101,39 +101,21 @@
     "stores": [
       {
         "name": "Shopee",
-        "price": "Rp 19.999.000",
-        "originalPrice": "Rp 21.999.000",
+        "price": "Rp 21.919.030",
+        "originalPrice": "Rp 24.999.000",
         "discount": "9%",
-        "link": "#",
+        "link": "https://s.shopee.co.id/1g7knJyOxd",
         "color": "bg-orange-500 hover:bg-orange-600",
-        "logo": "/vercel.svg"
+        "logo": "https://raw.githubusercontent.com/kuriizz/cek-spek-data/refs/heads/main/review/assets/shopee-logo.png"
       },
       {
         "name": "Tokopedia",
-        "price": "Rp 20.199.000",
+        "price": "Rp 20.549.000",
         "originalPrice": "Rp 21.999.000",
         "discount": "8%",
-        "link": "#",
+        "link": "https://tk.tokopedia.com/ZSBcv2G4B/",
         "color": "bg-green-500 hover:bg-green-600",
-        "logo": "/vercel.svg"
-      },
-      {
-        "name": "Blibli",
-        "price": "Rp 20.499.000",
-        "originalPrice": "Rp 21.999.000",
-        "discount": "7%",
-        "link": "#",
-        "color": "bg-blue-500 hover:bg-blue-600",
-        "logo": "/vercel.svg"
-      },
-      {
-        "name": "Lazada",
-        "price": "Rp 20.299.000",
-        "originalPrice": "Rp 21.999.000",
-        "discount": "8%",
-        "link": "#",
-        "color": "bg-purple-500 hover:bg-purple-600",
-        "logo": "/vercel.svg"
+        "logo": "https://raw.githubusercontent.com/kuriizz/cek-spek-data/refs/heads/main/review/assets/tokopedia-logo.png"
       }
     ],
     "gallery": [
