@@ -4,10 +4,95 @@
     "name": "Samsung Galaxy S25 Ultra",
     "image": "https://raw.githubusercontent.com/kuriizz/cek-spek-data/refs/heads/main/review/assets/s25-ultra.jpg",
     "description": "The ultimate smartphone experience with S Pen, advanced AI features, and professional-grade camera system.",
-    "rating": 5
-  },
-  "price": {
-    "startingPrice": "Rp 19.999.000",
+    "rating": 5,
+    "features": [
+      {
+        "icon": "✏️",
+        "title": "S Pen Integration",
+        "description": "Built-in S Pen with improved latency and new AI-powered features for enhanced productivity."
+      },
+      {
+        "icon": "📸",
+        "title": "AI Photography",
+        "description": "Advanced AI scene optimization and computational photography for stunning photos in any condition."
+      },
+      {
+        "icon": "🔋",
+        "title": "All-Day Battery",
+        "description": "5000mAh battery with intelligent power management and fast charging capabilities."
+      },
+      {
+        "icon": "🛡️",
+        "title": "Premium Build",
+        "description": "Titanium frame with Gorilla Glass Victus 3 protection and IP68 water resistance."
+      },
+      {
+        "icon": "🤖",
+        "title": "Galaxy AI Integration",
+        "description": "Experience the power of on-device AI with features like Live Translate, Circle to Search, and AI Photo Editor."
+      },
+      {
+        "icon": "📱",
+        "title": "S Pen Functionality",
+        "description": "Precision control with 4,096 pressure levels, Air Actions, and improved 2.8ms latency."
+      },
+      {
+        "icon": "🔒",
+        "title": "Knox Security",
+        "description": "Real-time malware protection and multi-layered security architecture with Samsung Knox."
+      },
+      {
+        "icon": "🌐",
+        "title": "5G Connectivity",
+        "description": "Support for both Sub-6GHz and mmWave with ultra-fast speeds and low latency."
+      }
+    ],
+    "specs": [
+      {
+        "category": "Display",
+        "specs": [
+          { "label": "Screen Size", "value": "6.8 inches" },
+          { "label": "Resolution", "value": "3088 x 1440 pixels (501 ppi)" },
+          { "label": "Display Type", "value": "Dynamic AMOLED 2X" },
+          { "label": "Refresh Rate", "value": "120Hz adaptive" },
+          { "label": "Brightness", "value": "2600 nits peak" },
+          { "label": "Protection", "value": "Corning Gorilla Glass Victus 3" }
+        ]
+      },
+      {
+        "category": "Performance",
+        "specs": [
+          { "label": "Processor", "value": "Snapdragon 8 Elite (3nm)" },
+          { "label": "CPU", "value": "Octa-core (2x3.53 GHz + 6x2.54 GHz)" },
+          { "label": "GPU", "value": "Adreno 830" },
+          { "label": "RAM", "value": "12GB / 16GB LPDDR5X" },
+          { "label": "Storage", "value": "256GB / 512GB / 1TB UFS 4.0" },
+          { "label": "OS", "value": "Android 15 with One UI 7" }
+        ]
+      },
+      {
+        "category": "Camera",
+        "specs": [
+          { "label": "Main Camera", "value": "200MP f/1.7 OIS" },
+          { "label": "Ultra Wide", "value": "50MP f/1.9 120°" },
+          { "label": "Telephoto", "value": "50MP f/3.4 5x optical zoom" },
+          { "label": "Periscope", "value": "50MP f/4.9 10x optical zoom" },
+          { "label": "Front Camera", "value": "12MP f/2.2" },
+          { "label": "Video Recording", "value": "8K@30fps, 4K@60fps" }
+        ]
+      },
+      {
+        "category": "Battery & Connectivity",
+        "specs": [
+          { "label": "Battery", "value": "5000mAh" },
+          { "label": "Charging", "value": "45W wired, 15W wireless" },
+          { "label": "5G", "value": "Sub-6GHz and mmWave" },
+          { "label": "WiFi", "value": "WiFi 7 (802.11be)" },
+          { "label": "Bluetooth", "value": "5.3" },
+          { "label": "NFC", "value": "Yes" }
+        ]
+      }
+    ],
     "stores": [
       {
         "name": "Shopee",
@@ -15,7 +100,8 @@
         "originalPrice": "Rp 21.999.000",
         "discount": "9%",
         "link": "#",
-        "color": "bg-orange-500 hover:bg-orange-600"
+        "color": "bg-orange-500 hover:bg-orange-600",
+        "logo": "/vercel.svg"
       },
       {
         "name": "Tokopedia",
@@ -23,7 +109,8 @@
         "originalPrice": "Rp 21.999.000",
         "discount": "8%",
         "link": "#",
-        "color": "bg-green-500 hover:bg-green-600"
+        "color": "bg-green-500 hover:bg-green-600",
+        "logo": "/vercel.svg"
       },
       {
         "name": "Blibli",
@@ -31,7 +118,8 @@
         "originalPrice": "Rp 21.999.000",
         "discount": "7%",
         "link": "#",
-        "color": "bg-blue-500 hover:bg-blue-600"
+        "color": "bg-blue-500 hover:bg-blue-600",
+        "logo": "/vercel.svg"
       },
       {
         "name": "Lazada",
@@ -39,104 +127,19 @@
         "originalPrice": "Rp 21.999.000",
         "discount": "8%",
         "link": "#",
-        "color": "bg-purple-500 hover:bg-purple-600"
+        "color": "bg-purple-500 hover:bg-purple-600",
+        "logo": "/vercel.svg"
       }
+    ],
+    "gallery": [
+      "https://raw.githubusercontent.com/kuriizz/cek-spek-data/refs/heads/main/review/assets/s25-ultra.jpg",
+      "https://via.placeholder.com/200x200?text=Gallery+1",
+      "https://via.placeholder.com/200x200?text=Gallery+2",
+      "https://via.placeholder.com/200x200?text=Gallery+3",
+      "https://via.placeholder.com/200x200?text=Gallery+4",
+      "https://via.placeholder.com/200x200?text=Gallery+5"
     ]
   },
-  "keyFeatures": [
-    {
-      "title": "S Pen Integration",
-      "description": "Built-in S Pen with improved latency and new AI-powered features for enhanced productivity.",
-      "icon": "✏️"
-    },
-    {
-      "title": "AI Photography",
-      "description": "Advanced AI scene optimization and computational photography for stunning photos in any condition.",
-      "icon": "📸"
-    },
-    {
-      "title": "All-Day Battery",
-      "description": "5000mAh battery with intelligent power management and fast charging capabilities.",
-      "icon": "🔋"
-    },
-    {
-      "title": "Premium Build",
-      "description": "Titanium frame with Gorilla Glass Victus 3 protection and IP68 water resistance.",
-      "icon": "🛡️"
-    }
-  ],
-  "specifications": [
-    {
-      "category": "Display",
-      "specs": [
-        { "label": "Screen Size", "value": "6.8 inches" },
-        { "label": "Resolution", "value": "3088 x 1440 pixels (501 ppi)" },
-        { "label": "Display Type", "value": "Dynamic AMOLED 2X" },
-        { "label": "Refresh Rate", "value": "120Hz adaptive" },
-        { "label": "Brightness", "value": "2600 nits peak" },
-        { "label": "Protection", "value": "Corning Gorilla Glass Victus 3" }
-      ]
-    },
-    {
-      "category": "Performance",
-      "specs": [
-        { "label": "Processor", "value": "Snapdragon 8 Elite (3nm)" },
-        { "label": "CPU", "value": "Octa-core (2x3.53 GHz + 6x2.54 GHz)" },
-        { "label": "GPU", "value": "Adreno 830" },
-        { "label": "RAM", "value": "12GB / 16GB LPDDR5X" },
-        { "label": "Storage", "value": "256GB / 512GB / 1TB UFS 4.0" },
-        { "label": "OS", "value": "Android 15 with One UI 7" }
-      ]
-    },
-    {
-      "category": "Camera",
-      "specs": [
-        { "label": "Main Camera", "value": "200MP f/1.7 OIS" },
-        { "label": "Ultra Wide", "value": "50MP f/1.9 120°" },
-        { "label": "Telephoto", "value": "50MP f/3.4 5x optical zoom" },
-        { "label": "Periscope", "value": "50MP f/4.9 10x optical zoom" },
-        { "label": "Front Camera", "value": "12MP f/2.2" },
-        { "label": "Video Recording", "value": "8K@30fps, 4K@60fps" }
-      ]
-    },
-    {
-      "category": "Battery & Connectivity",
-      "specs": [
-        { "label": "Battery", "value": "5000mAh" },
-        { "label": "Charging", "value": "45W wired, 15W wireless" },
-        { "label": "5G", "value": "Sub-6GHz and mmWave" },
-        { "label": "WiFi", "value": "WiFi 7 (802.11be)" },
-        { "label": "Bluetooth", "value": "5.3" },
-        { "label": "NFC", "value": "Yes" }
-      ]
-    }
-  ],
-  "features": [
-    {
-      "title": "🤖 Galaxy AI Integration",
-      "description": "Experience the power of on-device AI with features like Live Translate, Circle to Search, and AI Photo Editor."
-    },
-    {
-      "title": "📱 S Pen Functionality",
-      "description": "Precision control with 4,096 pressure levels, Air Actions, and improved 2.8ms latency."
-    },
-    {
-      "title": "🔒 Knox Security",
-      "description": "Real-time malware protection and multi-layered security architecture with Samsung Knox."
-    },
-    {
-      "title": "🌐 5G Connectivity",
-      "description": "Support for both Sub-6GHz and mmWave with ultra-fast speeds and low latency."
-    }
-  ],
-  "gallery": [
-    "https://raw.githubusercontent.com/kuriizz/cek-spek-data/refs/heads/main/review/assets/s25-ultra.jpg",
-    "https://via.placeholder.com/200x200?text=Gallery+1",
-    "https://via.placeholder.com/200x200?text=Gallery+2",
-    "https://via.placeholder.com/200x200?text=Gallery+3",
-    "https://via.placeholder.com/200x200?text=Gallery+4",
-    "https://via.placeholder.com/200x200?text=Gallery+5"
-  ],
   "relatedProducts": [
     {
       "name": "Samsung Galaxy S24 Ultra",
