@@ -5,6 +5,11 @@
     "image": "https://raw.githubusercontent.com/kuriizz/cek-spek-data/refs/heads/main/review/assets/s25-ultra.jpg",
     "description": "The ultimate smartphone experience with S Pen, advanced AI features, and professional-grade camera system.",
     "rating": 5,
+    "overview": [
+      "The Samsung Galaxy S25 Ultra represents the pinnacle of smartphone innovation, combining cutting-edge technology with premium design. Featuring the revolutionary Snapdragon 8 Elite processor, this device delivers unparalleled performance for both everyday tasks and demanding applications.",
+      "The integrated S Pen takes productivity to new heights with improved latency and AI-powered features that make note-taking, drawing, and navigation more intuitive than ever. Whether you're a creative professional or a business user, the S25 Ultra adapts to your workflow seamlessly.",
+      "With its advanced camera system featuring a 200MP main sensor and multiple telephoto lenses, capture professional-quality photos and videos in any lighting condition. The AI-enhanced photography ensures every shot is optimized for stunning results."
+    ],
     "features": [
       {
         "icon": "✏️",
