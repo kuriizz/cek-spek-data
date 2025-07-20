@@ -1,0 +1,100 @@
+{
+  "title": "PSP X7 / X12 / X7PLUS / X80 Game Console",
+  "product": {
+    "name": "PSP X7 / X12 / X7PLUS / X80",
+    "image": "https://raw.githubusercontent.com/kuriizz/cek-spek-data/refs/heads/main/review/assets/psp-x12.png",
+    "description": "Konsol game portabel serbaguna dengan ribuan game retro built-in, berbagai ukuran layar, dan dukungan output TV.",
+    "rating": 5,
+    "features": [
+      {
+        "icon": "🎮",
+        "title": "Ribuan Game Retro",
+        "description": "Mendukung berbagai format seperti PS1, GBA, NES, SFC, NEOGEO, dan banyak lagi."
+      },
+      {
+        "icon": "📺",
+        "title": "Output TV HDMI / AV",
+        "description": "Mainkan di layar besar melalui HDMI (X7PLUS, X80) atau AV (X7, X12)."
+      },
+      {
+        "icon": "🎧",
+        "title": "Headphone dan Audio Jack",
+        "description": "Nikmati pengalaman bermain dengan audio pribadi."
+      },
+      {
+        "icon": "📷",
+        "title": "Kamera Bawaan (X7PLUS)",
+        "description": "Ambil foto langsung dengan kamera terintegrasi."
+      }
+    ],
+    "specs": [
+      {
+        "category": "Varian Produk",
+        "specs": [
+          { "label": "X7", "value": "Layar 4.3 inci, 3000+ game, output AV" },
+          { "label": "X12", "value": "Layar 5.1 inci, 10000+ game, output AV" },
+          { "label": "X7PLUS", "value": "Layar 4.3 inci, 20000+ game, output HDMI, kamera, support gamepad" },
+          { "label": "X80", "value": "Layar 7 inci, 20000+ game, output HDMI" }
+        ]
+      },
+      {
+        "category": "Kapasitas & Koneksi",
+        "specs": [
+          { "label": "Kartu Memori", "value": "8GB (X7PLUS), 16GB (X80)" },
+          { "label": "Dukungan Gamepad", "value": "Ya, di X7PLUS (hingga 2 gamepad)" },
+          { "label": "Output TV", "value": "HDMI (X7PLUS, X80), AV (X7, X12)" },
+          { "label": "Port Tambahan", "value": "USB, Jack Headphone" }
+        ]
+      },
+      {
+        "category": "Multimedia",
+        "specs": [
+          { "label": "Format Video", "value": "AVI, RMVB, MP4, 3GP, MPEG, dll" },
+          { "label": "Format Musik", "value": "MP3, WMA, WAV" },
+          { "label": "Fitur Tambahan", "value": "Penghematan progress game, kamera (X7PLUS)" }
+        ]
+      },
+      {
+        "category": "Daya",
+        "specs": [
+          { "label": "Waktu Pengisian", "value": "2-3 jam" },
+          { "label": "Waktu Main", "value": "3-4 jam" }
+        ]
+      }
+    ],
+    "stores": [
+      {
+        "name": "Shopee",
+        "price": "Rp 349.000",
+        "originalPrice": "Rp 499.000",
+        "discount": "30%",
+        "logo": "https://raw.githubusercontent.com/kuriizz/cek-spek-data/refs/heads/main/review/assets/shopee-logo.png",
+        "color": "bg-orange-500 hover:bg-orange-600",
+        "link": "https://s.shopee.co.id/6KtbmSENls"
+      }
+    ],
+    "gallery": [
+      "https://via.placeholder.com/300x200?text=Varian+X7",
+      "https://via.placeholder.com/300x200?text=Varian+X12",
+      "https://via.placeholder.com/300x200?text=Varian+X7PLUS",
+      "https://via.placeholder.com/300x200?text=Varian+X80"
+    ]
+  },
+  "relatedProducts": [
+    {
+      "name": "Game Stick Lite 4K",
+      "price": "Rp 259.000",
+      "image": "https://via.placeholder.com/80x80?text=Game+Stick"
+    },
+    {
+      "name": "Anbernic RG35XX",
+      "price": "Rp 799.000",
+      "image": "https://via.placeholder.com/80x80?text=RG35XX"
+    },
+    {
+      "name": "Nintendo Switch Lite",
+      "price": "Rp 2.999.000",
+      "image": "https://via.placeholder.com/80x80?text=Switch+Lite"
+    }
+  ]
+}
